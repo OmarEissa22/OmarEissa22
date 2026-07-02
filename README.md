@@ -52,12 +52,6 @@ Segmented 3 years of auto-loan portfolio data into risk categories using Python,
 
 ---
 
-##  GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarEissa22&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--eissa22-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-eissa22)
