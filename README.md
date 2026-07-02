@@ -1,21 +1,21 @@
-# Hi, I'm Omar 👋
+# Hi, I'm Omar 
 
 **AI Engineer & Full-Stack Developer** · CS First Class @ University of Huddersfield (graduating July 2026)  
-📍 Huddersfield, UK — open to roles across the UK · 🛂 Graduate Route visa from July 2026
+ Huddersfield, UK — open to roles across the UK · Graduate Route visa from July 2026
 
 ---
 
-## 🚀 What I build
+##  What I build
 
 I work at the intersection of **AI engineering**, **full-stack development**, and **data engineering** — building systems that use LLMs and ML models to solve real problems, not just demos.
 
-- 🧠 **AI systems** — GPT-4o pipelines, LangChain tool-calling agents, prompt engineering, structured outputs
-- 🌐 **Full-stack web** — TypeScript end-to-end (React + Node.js + tRPC + Supabase)
-- 🔬 **Data engineering** — Python pipelines, time-series analysis, wearable health data, ML dataset preparation
+-  **AI systems** — GPT-4o pipelines, LangChain tool-calling agents, prompt engineering, structured outputs
+-  **Full-stack web** — TypeScript end-to-end (React + Node.js + tRPC + Supabase)
+-  **Data engineering** — Python pipelines, time-series analysis, wearable health data, ML dataset preparation
 
 ---
 
-## 🔨 Featured Project
+##  Featured Project
 
 ### [CareQueue — AI-Powered GP Triage & Booking System](https://github.com/OmarEissa22/ai-gp-booking-system)
 > Final Year Project · TypeScript · GPT-4o · LangChain · tRPC · Supabase · React
@@ -30,7 +30,7 @@ A full-stack web application where patients describe symptoms, GPT-4o triages ur
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```
 Languages      TypeScript · Python · JavaScript · SQL · C++ · Java
@@ -42,7 +42,7 @@ Tools          Git/GitHub · Docker · AWS · Vite · Jupyter Notebook · VS Cod
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Research Assistant — AI & Data Engineering** · University of Huddersfield *(Jul 2024 – Jul 2025)*  
 Worked on AI4SW — an academic ML research project predicting student mental wellbeing from smartwatch data. Designed Python data pipelines processing Apple Health XML and Firebase JSON data for 15 participants, prepared datasets for ML models, and contributed to the React Native mobile app.
@@ -52,13 +52,13 @@ Segmented 3 years of auto-loan portfolio data into risk categories using Python,
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarEissa22&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--eissa22-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-eissa22)
 [![Email](https://img.shields.io/badge/Email-omareissa2274%40gmail.com-D14836?style=flat&logo=gmail)](mailto:omareissa2274@gmail.com)
